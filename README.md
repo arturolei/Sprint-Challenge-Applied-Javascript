@@ -40,7 +40,7 @@ Edit this document to include your answers after each question. Make sure to lea
 *An event listener is function that is triggered when a certain event, e.g. a click or keydown, is triggered*
 
 4. Why would we convert a NodeList into an Array?
-*We can use `Array.from(NodeListName)` where NodeListName = a NodeList; this will turn that nodelist into an array. We do this so we can use the Array method .forEach() *
+*We can use `Array.from(NodeListName)` where NodeListName = a NodeList; this will turn that nodelist into an array. We do this so we can use the Array methods like .forEach()*
 
 5. What is a component?
 *A component is a chunk of reusable code (HTML, CSS, and JS). Components are building blocks we can use to avoid repeating ourselves when we build applications.*
